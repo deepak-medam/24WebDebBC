@@ -24,4 +24,3 @@
 
 ## Introduction to HTML
 
-This approach uses standard Markdown formatting, which is more consistently supported across different platforms. Let me know if you have any other questions!
